@@ -59,7 +59,7 @@ sequenceDiagram
 1. **Clone and Install:**
    ```bash
    git clone <your-repo-url>
-   cd backend
+   cd Payment-Ledger-System
    npm install
    ```
 
